@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Darlene Wendy
 
-## 🚀 Aspiring Data Scientist | Machine Learning Engineer | Python Developer
+## 🚀Data Scientist | Machine Learning Engineer | Python Developer | Engineer
 
 I am an engineering student with a **crazy interest in robotics 🤖**. My passion lies in **data science, AI, and machine learning**, and I am constantly learning and growing in these fields. Currently, I am expanding my skills in **JavaScript and React (Vite)** to enhance my full-stack capabilities. 
 
