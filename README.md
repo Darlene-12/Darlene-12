@@ -24,6 +24,7 @@ I am an engineering student with a **crazy interest in robotics 🤖**. My passi
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mlflow.svg" alt="MLflow" width="40" height="40"/>
 </p>
 
 ---
@@ -33,10 +34,13 @@ I am an engineering student with a **crazy interest in robotics 🤖**. My passi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darlene-12&layout=compact&theme=dark)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Darlene-12&theme=dark&hide_border=true)
+
 ---
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darlene-wendy-638065254/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Darlene-12)
 
-💌 **Let's talk tech, AI, data, and robotics!** Feel free to reach out! 🚀
+📧 **Reach me at:** darlenewendie@gmail.com  
+🤝 **I'm open to collaborating on any Machine Learning or Data Science projects!** 🚀
