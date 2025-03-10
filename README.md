@@ -24,7 +24,8 @@ I am an engineering student with a **crazy interest in robotics 🤖**. My passi
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://www.google.com/imgres?q=mlflow%20icon&imgurl=https%3A%2F%2Fwww.bigdatawire.com%2Fwp-content%2Fuploads%2F2018%2F06%2FMLflow-logo.png&imgrefurl=https%3A%2F%2Fwww.bigdatawire.com%2F2018%2F10%2F03%2Fmlflow-opens-up-to-r%2F&docid=t18_yKWxPx8TOM&tbnid=wYeOk5cteTagDM&vet=12ahUKEwie7NqwlICMAxVBSKQEHeQCAhYQM3oECFYQAA..i&w=933&h=529&hcb=2&ved=2ahUKEwie7NqwlICMAxVBSKQEHeQCAhYQM3oECFYQAA" alt="MLflow" width="40" height="40"/>
+  <img src="![image](https://github.com/user-attachments/assets/9cfefcf9-6b32-4781-b9fb-80de2eb04bbe)
+" alt="MLflow" width="40" height="40"/>
 </p>
 
 ---
