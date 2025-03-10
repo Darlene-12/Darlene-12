@@ -19,7 +19,7 @@ I am an engineering student with a **crazy interest in robotics 🤖**. My passi
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftpowerbi.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" alt="Pandas" width="40" height="40"/>
@@ -40,4 +40,3 @@ I am an engineering student with a **crazy interest in robotics 🤖**. My passi
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Darlene-12)
 
 💌 **Let's talk tech, AI, data, and robotics!** Feel free to reach out! 🚀
-
