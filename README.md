@@ -23,12 +23,6 @@ Let's build something **awesome** together!
 
 ## 🛠️ Languages and Tools:
 
-## 🛠️ Languages & Tools  
-
-## 🛠️ Languages & Tools  
-
-## 🛠️ Languages & Tools  
-
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
