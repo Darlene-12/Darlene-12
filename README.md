@@ -82,7 +82,7 @@ Let's build something **awesome** together!
 
 ![Darlene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darlene-12&show_icons=true&theme=dark)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darlene-12&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darlene-12&layout=compact&theme=dark)    
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Darlene-12&theme=dark&hide_border=true)  
 
