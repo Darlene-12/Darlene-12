@@ -8,7 +8,7 @@ I am deeply passionate about **Python and JavaScript**—two languages that powe
 - 🚀 **JavaScript excites me** because of its versatility in building fast, responsive web applications.  
 - 🌱 **Currently learning** advanced machine learning techniques and React (Vite) to sharpen my full-stack capabilities.  
 - 🤖 **Exploring** robotics & AI applications to push the boundaries of innovation.  
-- 🛠️ **Open to collaborating** on ML, deep learning, and full-stack projects.  
+- 🛠️ **Open to collaborating** on ML, deep learning, and full-stack projects related to Data.  
 
 Let's build something **awesome** together!  
 
