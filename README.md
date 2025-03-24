@@ -2,7 +2,8 @@
 
 ## 🚀 Data Scientist | Machine Learning Engineer | Python Developer | Engineer  
 
-I am deeply passionate about **Python and JavaScript**—two languages that power my development world. **Python** fuels my love for **data science, AI, and machine learning**, while **JavaScript** allows me to craft **interactive and dynamic web applications**. I thrive at the intersection of **intelligent automation, full-stack development, and AI-powered solutions**.  
+I am deeply passionate about Python and JavaScript, two languages that power my development world. Python fuels my love for data science, AI, and machine learning, while JavaScript allows me to craft interactive and dynamic web applications. 
+I thrive at the intersection of intelligent automation, full-stack development, and AI-powered solutions.  
 
 - 💡 **I love Python** for its simplicity, efficiency, and unmatched power in AI & data science.  
 - 🚀 **JavaScript excites me** because of its versatility in building fast, responsive web applications.  
