@@ -8,7 +8,7 @@ I thrive at the intersection of intelligent automation, full-stack development, 
 - 💡 **I love Python** for its simplicity, efficiency, and unmatched power in AI & data science.  
 - 🚀 **JavaScript excites me** because of its versatility in building fast, responsive web applications.  
 - 🌱 **Currently learning** advanced machine learning techniques and React (Vite) to sharpen my full-stack capabilities.  
-- 🤖 **Exploring** robotics & AI applications to push the boundaries of innovation.  
+- 🤖 **Exploring** robotics & AI applications.  
 - 🛠️ **Open to collaborating** on ML, deep learning, and full-stack data-related projects.  
 
 Let's build something **awesome** together!  
