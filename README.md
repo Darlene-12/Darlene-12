@@ -79,7 +79,7 @@ Let's build something **awesome** together!
 </p>
 
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats.
 
 ![Darlene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darlene-12&show_icons=true&theme=dark)  
 
