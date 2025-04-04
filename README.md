@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darlene Wendy
+# Hi 👋, I'm Darlene Wendy.
 
 ## 🚀 Data Scientist | Machine Learning Engineer | Python Developer | Engineer 
 
