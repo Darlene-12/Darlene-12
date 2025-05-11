@@ -93,5 +93,5 @@ Let's build something **awesome** together!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darlene-wendy-638065254/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Darlene-12)  
 
-📧 **Reach me at** darlenewendie@gmail.com  
+📧 **Reach me at** darlenewendie@gmail.com  or https://my-portfolio-cyan-alpha-75.vercel.app/
 🤝 **I'm open to collaborating on any Machine Learning or Data Science projects!** 🚀  
