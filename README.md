@@ -1,6 +1,6 @@
 # Hi 👋, I'm Darlene Wendy.
 
-## 🚀 Data Scientist | Machine Learning Engineer | Python Developer | Engineer 
+## 🚀 Data Scientist | Machine Learning Engineer |Back-end Developer | Mineral Processing Engineer 
 
 I am deeply passionate about Python and JavaScript, two languages that power my development world. Python fuels my love for data science, AI, and machine learning, while JavaScript allows me to craft interactive and dynamic web applications. 
 I thrive at the intersection of intelligent automation, full-stack development, and AI-powered solutions.  
